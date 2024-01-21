@@ -1,0 +1,46 @@
+Main Street,strada principale
+South Park Elementary,scuola
+Stark's Pond,parco
+Tweek Bros. Coffeehouse,caffetteria
+City Wok,ristorante
+Tom's Rhinoplasty,negozio
+South Park Police Station,stazione di polizia
+South Park Community Center,centro comunitario
+###
+Cappello da Chef,City Wok,20,cucina
+Libro di Scienze,South Park Elementary,15,educazione
+Pattini da Ghiaccio,Stark's Pond,25,sport
+Tazza di Caffè Speciale,Tweek Bros. Coffeehouse,10,cibo
+Modellino di Nave Spaziale,Tom's Rhinoplasty,30,giocattolo
+Set di Walkie-Talkie,South Park Police Station,35,tecnologia
+Poster di Terrance e Phillip,South Park Community Center,5,intrattenimento
+Palla da Basket,South Park Elementary,20,sport
+Bicicletta Mountain Bike,Main Street,40,sport
+Enciclopedia di Botanica,South Park Elementary,25,educazione
+Kit per Birdwatching,Stark's Pond,30,natura
+Voucher per Colazione Gratis,Tweek Bros. Coffeehouse,15,cibo
+Wok Tradizionale,City Wok,35,cucina
+Kit di Trucco Professionale,Tom's Rhinoplasty,50,bellezza
+Distintivo da Detective,South Park Police Station,20,gioco di ruolo
+Microfono Karaoke,South Park Community Center,45,intrattenimento
+Skateboard Elettrico,Main Street,60,sport
+Grembiule da Laboratorio,South Park Elementary,10,educazione
+###
+Gara di Cucina,City Wok,Cappello da Chef,media,40
+Quiz di Scienze,South Park Elementary,Libro di Scienze,alta,50
+Pattinaggio Artistico,Stark's Pond,Pattini da Ghiaccio,bassa,30
+Assaggio di Caffè,Tweek Bros. Coffeehouse,Tazza di Caffè Speciale,media,35
+Caccia al Tesoro,Tom's Rhinoplasty,Modellino di Nave Spaziale,alta,45
+Operazione Segreta,South Park Police Station,Set di Walkie-Talkie,alta,50
+Concorso di Barzellette,South Park Community Center,Poster di Terrance e Phillip,bassa,25
+Torneo di Basket,South Park Elementary,Palla da Basket,media,40
+Gara di BMX,Main Street,Bicicletta Mountain Bike,alta,50
+Quiz di Botanica,South Park Elementary,Enciclopedia di Botanica,media,40
+Osservazione degli Uccelli,Stark's Pond,Kit per Birdwatching,bassa,30
+Competizione di Baristi,Tweek Bros. Coffeehouse,Voucher per Colazione Gratis,alta,45
+Sfida di Cucina Asiatica,City Wok,Wok Tradizionale,media,40
+Show di Bellezza,Tom's Rhinoplasty,Kit di Trucco Professionale,bassa,30
+Gioco di Indagine,South Park Police Station,Distintivo da Detective,alta,50
+Gara di Karaoke,South Park Community Center,Microfono Karaoke,media,35
+Corsa di Skateboard,Main Street,Skateboard Elettrico,alta,60
+Esperimento Scientifico,South Park Elementary,Grembiule da Laboratorio,bassa,25
